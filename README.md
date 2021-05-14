@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🔭 Career
+* Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.  
+# 👯 Education Certificate
+* Deep Learning Basics for Computer Vision, NVIDIA DEEP LEARNING INSTITUTE, in 2019
+* Basic lecture on accelerated computing using CUDA C/C++, NVIDIA DEEP LEARNING INSTITUTE, in 2019
+* accelerated computing using Numpy, Numba.jit, Parallel, CUDA C/C++, Hanyang Univ. Seoul, in 2020  
+# 🌱 Interest
+* Anomaly Detection
+* Machine/Deep Learning
+* Parallel Computing(Accelerating Applications with CUDA)
+* Micro/Nano Sensors  
 
-<!--
-**KKeun-B/KKeun-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKeun-B)](https://github.com/anuraghazra/github-readme-stats)  
+# 💬 Contact
+* https://microsystemhy.wixsite.com/mind/members
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
