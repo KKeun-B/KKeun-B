@@ -1,9 +1,10 @@
 # 🔭 Career
-* Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.  
+* Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.
+* Joined the MIND LAB, Hayang University, Seoul, Korea, in 2021.  
 # 👯 Education Certificate
-* Deep Learning Basics for Computer Vision, NVIDIA DEEP LEARNING INSTITUTE, in 2019
-* Basic lecture on accelerated computing using CUDA C/C++, NVIDIA DEEP LEARNING INSTITUTE, in 2019
-* accelerated computing using Numpy, Numba.jit, Parallel, CUDA C/C++, Hanyang Univ. Seoul, in 2020  
+* Deep Learning Basics for Computer Vision, NVIDIA DEEP LEARNING INSTITUTE, in 2019.
+* Basic lecture on accelerated computing using CUDA C/C++, NVIDIA DEEP LEARNING INSTITUTE, in 2019.
+* Accelerated computing using Numpy, Numba.jit, Parallel, CUDA C/C++, Hanyang Univ. Seoul, in 2020.  
 # 🌱 Interest
 * Anomaly Detection
 * Machine/Deep Learning
