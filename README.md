@@ -8,6 +8,7 @@
 * Accelerated computing using 4 Methods(Numpy, Numba.jit, Parallel, CUDA C/C++), Hanyang Univ. Seoul, in 2020.  
 # 🌱 Interest
 * Anomaly Detection
+* Detection and Classification of Abnormal products
 * Machine/Deep Learning
 * Parallel Computing(Accelerating Applications with CUDA)
 * Micro/Nano Sensors  
