@@ -2,7 +2,7 @@
 * Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.
 * NVIDIA Developer Program Member, NVIDIA Corporation, in 2021.
 * Joined the MIND LAB, Hayang University, Seoul, Korea, in 2021.  
-# 👯 Education Certificate
+# 👯 Education Certification
 * Deep Learning Basics for Computer Vision, NVIDIA DEEP LEARNING INSTITUTE, in 2019.
 * Basic lecture on accelerated computing using CUDA C/C++, NVIDIA DEEP LEARNING INSTITUTE, in 2019.
 * Accelerated computing using 4 Methods(Numpy, Numba.jit, Parallel, CUDA C/C++), Hanyang Univ. Seoul, in 2020.  
