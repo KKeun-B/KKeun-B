@@ -12,7 +12,7 @@
 * Machine/Deep Learning
 * Parallel Computing(Accelerating Applications with CUDA)
 * Micro/Nano Sensors  
-# 🍯 Awards
+# 🍯 Award
 * The Encouragement Award, Faculty of Mechanical Engineering Basic Design Festival, Hanyang University, in 2019.
 
 ![KKeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKeun-B&show_icons=true&theme=dracula)
