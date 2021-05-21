@@ -1,3 +1,4 @@
+![HitCount](http://hits.dwyl.com/dev-yakuza/react-native-image-modal.svg)
 # 🔭 Career
 * Expected Receiving B.S. degrees, in Mechanical Engineering from Hanyang University, Seoul, Korea, in 2021.
 * NVIDIA Developer Program Member, NVIDIA Corporation, in 2021.
